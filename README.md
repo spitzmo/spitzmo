@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spitzmo better known as Spitz or Nuno Moura
+- 👋 Hi, I’m @spitzmo better known as Nuno Moura
 - 👀 I’m interested in everything tech related, especially coding and cybersecurity
 - 🌱 I’m currently learning new concepts and more about coding and development
 - 💞️ I’m looking to collaborate on  Java related projects and anything new that I can learn and support
@@ -8,4 +8,4 @@
   - Instagram: www.instagram.com/nunoomoura
 - You can check my repositories to see my previous work
 - I'm always open to suggestions, criticism and help from anyone, as long as it's constructive and reasonable
-- 🪶 Signed with ❤️ : Spitz / Nuno Moura
+- 🪶 Signed with ❤️ : Nuno Moura
